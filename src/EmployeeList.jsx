@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button, Modal } from 'react-bootstrap';
 import EmployeeFilter from './EmployeeFilter.jsx';
 import EmployeeAdd from './EmployeeAdd.jsx';
 
